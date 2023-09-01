@@ -8,6 +8,7 @@
 #import <cstdlib>
 #import <cstring>
 #import <limits>
+#import <assert.h>
 
 #import "SFBRingBuffer.hpp"
 
